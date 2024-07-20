@@ -17,7 +17,7 @@ This project was created as part of a hackathon held every Saturday. The goal wa
   
   Speaking Level and its screenshot
   
-**Data Storage**: Upon submission, the data is stored in a Google Sheet for easy tracking and management. Access the Google Sheet here(https://docs.google.com/spreadsheets/d/1aGLZLG6FR7T_phIORmeeWgDBeZP4lezbHi83B582Pro/edit?usp=sharing).
+**Data Storage**: Upon submission, the data is stored in a Google Sheet for easy tracking and management. Access the Google Sheet here(https://docs.google.com/spreadsheets/d/1aGLZLG6FR7T_phIORmeeWgDBeZP4lezbHi83B582Pro/edit?usp=sharing). 
 
 # Getting Started with Create React App
 
